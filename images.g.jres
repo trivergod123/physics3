@@ -1,0 +1,17 @@
+{
+    "%%H*0lFeRtccQ-(ACJJm": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAgIiIiIgAAAAAiIiICAAAAACAiIgAAAAAAACICAAAAAAAAIAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "First"
+    },
+    "D~QR^}q{qED~!tbE;)A8": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAJAAAAAAAAAAkAAAAAAAAACQAAAAAAAAAJAAAAAAAAAAkAAAAAAAAACQAAAAAAAAAJAAAAAAAAAAkAAAAAAAAACQAAAAAACQmZmZmQAAAACZmZkJAAAAAJCZmQAAAAAAAJkJAAAAAAAAkAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Second"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
